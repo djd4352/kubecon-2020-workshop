@@ -1,6 +1,6 @@
 # Migration 101: VMs to Kubernetes
 
-This is a hands-on tutorial for migrating from VMs to Kubernetes.
+This is a test hands-on tutorial for migrating from VMs to Kubernetes.
 
 1. [Prerequisites](./0-prerequisites)
 1. [Setup](./1-setup)
